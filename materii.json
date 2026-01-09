@@ -1,0 +1,53 @@
+{
+  "manifest": {
+    "version": "1.0.0",
+    "author": "LampDelivery",
+    "name": "Materii",
+    "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/Materii\/main\/materii.json",
+    "license": "GPL-3.0 License"
+  },
+  "background": {},
+  "fonts": {
+    "ginto_bold": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_bold.ttf",
+    "whitney_bold": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_bold.ttf",
+    "ginto_regular": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_regular.ttf",
+    "ginto_medium": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_semibold.ttf",
+    "whitney_semibold": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_semibold.ttf",
+    "whitney_medium": "https:\/\/github.com\/LampDelivery\/Materii\/raw\/main\/inter_medium.ttf"
+  },
+  "simple_colors": {
+    "background": "system_neutral2_800",
+    "background_secondary": "system_neutral1_900",
+    "statusbar": "system_neutral1_900",
+    "input_background": "system_neutral1_900",
+    "accent": "system_accent1_300",
+    "blocked_bg": "system_neutral2_900",
+    "mention_highlight": "system_accent1_300",
+    "mention_highlight_text": "system_neutral1_100",
+    "mention_highlight_border": "system_accent2_300",
+    "active_channel": "system_neutral2_700"
+  },
+  "colors": {
+    "primary_dark_660": "system_neutral1_900",
+    "brand_new_230": "system_accent1_800",
+    "primary_dark_300": "system_neutral2_100",
+    "brand_new_630": "system_accent2_800",
+    "primary_dark_400": "system_neutral2_200",
+    "primary_dark_360": "system_neutral1_200",
+    "primary_dark_800": "system_neutral2_800",
+    "uikit_settings_item_text_color_light": "system_neutral2_600"
+  },
+  "drawable_tints": {
+    "ic_sidebar_pins_off_dark_24dp": "system_neutral2_100",
+    "ic_sidebar_notifications_off_dark_24dp": "system_accent1_800",
+    "ic_sidebar_notifications_on_dark_24dp": "system_neutral2_100",
+    "ic_thread": "system_neutral2_100",
+    "ic_channel_text": "system_neutral2_600",
+    "ic_content_copy_white_a60_24dp": "system_accent1_800",
+    "ic_visibility_white_24dp": "system_accent2_800",
+    "ic_thread_white_24dp": "system_accent2_800",
+    "ic_notifications_settings_white_a60_24dp": "system_accent2_800",
+    "ic_account_circle_white_a60_24dp": "system_accent2_800"
+  },
+  "raws": {}
+}
