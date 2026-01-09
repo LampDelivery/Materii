@@ -1,0 +1,31 @@
+{
+  "manifest": {
+    "name": "Round",
+    "version": "1.0.0",
+    "author": "LampDelivery"
+  },
+  "chat_list_adapter_item_text": {
+    "radius": 16
+  },
+  "chat_input": {
+    "radius": 16
+  },
+  "send_btn_container": {
+    "radius": 16
+  },
+  "guilds_list": {
+    "radius": 16
+  },
+  "channels_list_container": {
+    "radius": 16
+  },
+  "user_bar": {
+    "radius": 16
+  }
+  "bottom_bar": {
+  "radius": 16
+  }
+  "tabs_host_bottom_navigation_view": {
+  "radius": 16
+  }
+}
